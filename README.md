@@ -1,2 +1,2 @@
 # projeto-landing-page
-Projeto de desenvolvimento base do modulo do curso de Tecnología da Escola DNC 
+Projeto de desenvolvimento base do modulo do curso
